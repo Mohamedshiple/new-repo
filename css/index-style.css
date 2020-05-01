@@ -238,3 +238,12 @@ h1
     width: 80%; ; 
     height:550px;
 }
+.one{
+    font-size: 22px;
+    position: absolute;
+    right: 3%;
+}
+.imgnav img{
+    width: 40%;
+    margin-left: 20px;
+}
